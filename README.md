@@ -1,6 +1,6 @@
 # PengalamanBelajar
 Repo Ini Berisi Pengalaman Belajar di Dicoding
-#### 8 Febuari 2022 
+**8 Febuari 2022** 
 Belajar Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (100%)
 - Memahami Kebutuhan Aplikasi
 - Perencanaan Modifikasi Aplikasi
