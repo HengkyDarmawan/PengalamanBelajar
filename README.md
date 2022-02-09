@@ -14,7 +14,7 @@ Belajar Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101) (100%)
 - Gerbang Logika
 - Pengenalan Dasar Computational Thinking
 
-Belajar Kelas Dasar Git dengan GitHub (50%)
+Belajar Kelas Dasar Git dengan GitHub (52%)
 - Git dan GitHub
 - Dasar Git
 - Studi Kasus Pengalaman Belajar
